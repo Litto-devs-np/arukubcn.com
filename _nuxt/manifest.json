@@ -1,0 +1,24 @@
+{
+  "node_modules/nuxt/dist/app/entry.mjs": {
+    "file": "entry-f4a450ba.mjs",
+    "src": "node_modules/nuxt/dist/app/entry.mjs",
+    "isEntry": true,
+    "dynamicImports": [
+      "pages/index.vue"
+    ],
+    "css": [
+      "entry.d5d083cb.css"
+    ],
+    "assets": [
+      "hero-image-figma.befbb910.jpeg"
+    ]
+  },
+  "pages/index.vue": {
+    "file": "index-f539bf46.mjs",
+    "src": "pages/index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  }
+}
