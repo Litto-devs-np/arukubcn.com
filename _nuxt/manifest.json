@@ -1,21 +1,21 @@
 {
   "node_modules/nuxt/dist/app/entry.mjs": {
-    "file": "entry-f21cbcb9.mjs",
+    "file": "entry-53ee5c86.mjs",
     "src": "node_modules/nuxt/dist/app/entry.mjs",
     "isEntry": true,
     "dynamicImports": [
       "pages/index.vue"
     ],
     "css": [
-      "entry.d5d083cb.css"
+      "entry.d900b79b.css"
     ],
     "assets": [
       "white-ibuka-logo.998931ef.svg",
-      "hero-image-figma.befbb910.jpeg"
+      "hero-image-figma.ba907452.jpg"
     ]
   },
   "pages/index.vue": {
-    "file": "index-b9b4e314.mjs",
+    "file": "index-4d46f1a3.mjs",
     "src": "pages/index.vue",
     "isDynamicEntry": true,
     "imports": [
