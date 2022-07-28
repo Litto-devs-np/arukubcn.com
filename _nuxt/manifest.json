@@ -1,13 +1,13 @@
 {
   "node_modules/nuxt/dist/app/entry.mjs": {
-    "file": "entry-724117df.mjs",
+    "file": "entry-19ddffc5.mjs",
     "src": "node_modules/nuxt/dist/app/entry.mjs",
     "isEntry": true,
     "dynamicImports": [
       "pages/index.vue"
     ],
     "css": [
-      "entry.389f7ad4.css"
+      "entry.a2e4c5ee.css"
     ],
     "assets": [
       "white-ibuka-logo.998931ef.svg",
@@ -15,7 +15,7 @@
     ]
   },
   "pages/index.vue": {
-    "file": "index-4e813c66.mjs",
+    "file": "index-44524e99.mjs",
     "src": "pages/index.vue",
     "isDynamicEntry": true,
     "imports": [
