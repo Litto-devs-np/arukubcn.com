@@ -1,39 +1,26 @@
 {
-  "assets/images/white-ibuka-logo.svg": {
-    "file": "_nuxt/white-ibuka-logo.998931ef.svg",
-    "src": "assets/images/white-ibuka-logo.svg"
-  },
   "assets/images/hero-image-figma.jpg": {
     "file": "_nuxt/hero-image-figma.ba907452.jpg",
     "src": "assets/images/hero-image-figma.jpg"
   },
+  "assets/images/aruka-logo.svg": {
+    "file": "_nuxt/aruka-logo.61151448.svg",
+    "src": "assets/images/aruka-logo.svg"
+  },
   "node_modules/nuxt/dist/app/entry.mjs": {
-    "file": "_nuxt/entry.a28fb6c2.mjs",
+    "file": "_nuxt/entry.2b00a95d.mjs",
     "src": "node_modules/nuxt/dist/app/entry.mjs",
     "isEntry": true,
-    "dynamicImports": [
-      "pages/index.vue"
-    ],
     "css": [
-      "_nuxt/entry.5bedb776.css"
+      "_nuxt/entry.5a53c28e.css"
     ],
     "assets": [
+      "_nuxt/aruka-logo.61151448.svg",
       "_nuxt/hero-image-figma.ba907452.jpg"
     ]
   },
-  "pages/index.vue": {
-    "file": "_nuxt/index.d3be0e0b.mjs",
-    "src": "pages/index.vue",
-    "isDynamicEntry": true,
-    "imports": [
-      "node_modules/nuxt/dist/app/entry.mjs"
-    ],
-    "assets": [
-      "_nuxt/white-ibuka-logo.998931ef.svg"
-    ]
-  },
   "node_modules/nuxt/dist/app/entry.css": {
-    "file": "_nuxt/entry.5bedb776.css",
+    "file": "_nuxt/entry.5a53c28e.css",
     "src": "node_modules/nuxt/dist/app/entry.css"
   }
 }
