@@ -7,10 +7,6 @@
     "file": "_nuxt/aruka-logo.da576dc2.svg",
     "src": "assets/images/aruka-logo.svg"
   },
-  "assets/images/gallery/2.jpg": {
-    "file": "_nuxt/2.883fdf33.jpg",
-    "src": "assets/images/gallery/2.jpg"
-  },
   "assets/images/gallery/1.jpg": {
     "file": "_nuxt/1.5cc6486b.jpg",
     "src": "assets/images/gallery/1.jpg"
@@ -23,12 +19,16 @@
     "file": "_nuxt/5.1effcb76.jpg",
     "src": "assets/images/gallery/5.jpg"
   },
+  "assets/images/gallery/2.jpg": {
+    "file": "_nuxt/2.883fdf33.jpg",
+    "src": "assets/images/gallery/2.jpg"
+  },
   "assets/images/gallery/4.jpg": {
     "file": "_nuxt/4.02b868cc.jpg",
     "src": "assets/images/gallery/4.jpg"
   },
   "node_modules/nuxt/dist/app/entry.mjs": {
-    "file": "_nuxt/entry.1c494705.mjs",
+    "file": "_nuxt/entry.3677c98a.mjs",
     "src": "node_modules/nuxt/dist/app/entry.mjs",
     "isEntry": true,
     "css": [
