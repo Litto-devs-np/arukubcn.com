@@ -3,36 +3,36 @@
     "file": "_nuxt/hero-image-figma.ba907452.jpg",
     "src": "assets/images/hero-image-figma.jpg"
   },
-  "assets/images/gallery/2.jpg": {
-    "file": "_nuxt/2.883fdf33.jpg",
-    "src": "assets/images/gallery/2.jpg"
-  },
-  "assets/images/gallery/1.jpg": {
-    "file": "_nuxt/1.5cc6486b.jpg",
-    "src": "assets/images/gallery/1.jpg"
-  },
   "assets/images/aruka-logo.svg": {
     "file": "_nuxt/aruka-logo.da576dc2.svg",
     "src": "assets/images/aruka-logo.svg"
+  },
+  "assets/images/gallery/2.jpg": {
+    "file": "_nuxt/2.883fdf33.jpg",
+    "src": "assets/images/gallery/2.jpg"
   },
   "assets/images/gallery/3.jpg": {
     "file": "_nuxt/3.f7f1a8a8.jpg",
     "src": "assets/images/gallery/3.jpg"
   },
-  "assets/images/gallery/4.jpg": {
-    "file": "_nuxt/4.02b868cc.jpg",
-    "src": "assets/images/gallery/4.jpg"
-  },
   "assets/images/gallery/5.jpg": {
     "file": "_nuxt/5.1effcb76.jpg",
     "src": "assets/images/gallery/5.jpg"
   },
+  "assets/images/gallery/1.jpg": {
+    "file": "_nuxt/1.5cc6486b.jpg",
+    "src": "assets/images/gallery/1.jpg"
+  },
+  "assets/images/gallery/4.jpg": {
+    "file": "_nuxt/4.02b868cc.jpg",
+    "src": "assets/images/gallery/4.jpg"
+  },
   "node_modules/nuxt/dist/app/entry.mjs": {
-    "file": "_nuxt/entry.1bbed3fa.mjs",
+    "file": "_nuxt/entry.19407e16.mjs",
     "src": "node_modules/nuxt/dist/app/entry.mjs",
     "isEntry": true,
     "css": [
-      "_nuxt/entry.3b493038.css"
+      "_nuxt/entry.b953687a.css"
     ],
     "assets": [
       "_nuxt/aruka-logo.da576dc2.svg",
@@ -45,7 +45,7 @@
     ]
   },
   "node_modules/nuxt/dist/app/entry.css": {
-    "file": "_nuxt/entry.3b493038.css",
+    "file": "_nuxt/entry.b953687a.css",
     "src": "node_modules/nuxt/dist/app/entry.css"
   }
 }
