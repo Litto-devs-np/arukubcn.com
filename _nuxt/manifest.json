@@ -7,45 +7,50 @@
     "file": "_nuxt/aruka-logo.da576dc2.svg",
     "src": "assets/images/aruka-logo.svg"
   },
-  "assets/images/gallery/2.jpg": {
-    "file": "_nuxt/2.883fdf33.jpg",
-    "src": "assets/images/gallery/2.jpg"
+  "assets/images/gallery2/2.jpg": {
+    "file": "_nuxt/2.4abaea49.jpg",
+    "src": "assets/images/gallery2/2.jpg"
   },
-  "assets/images/gallery/1.jpg": {
-    "file": "_nuxt/1.5cc6486b.jpg",
-    "src": "assets/images/gallery/1.jpg"
+  "assets/images/gallery2/1.jpg": {
+    "file": "_nuxt/1.2eb77303.jpg",
+    "src": "assets/images/gallery2/1.jpg"
   },
   "assets/images/gallery/4.jpg": {
     "file": "_nuxt/4.02b868cc.jpg",
     "src": "assets/images/gallery/4.jpg"
   },
-  "assets/images/gallery/3.jpg": {
-    "file": "_nuxt/3.f7f1a8a8.jpg",
-    "src": "assets/images/gallery/3.jpg"
+  "assets/images/gallery2/3.jpg": {
+    "file": "_nuxt/3.bb6dbe75.jpg",
+    "src": "assets/images/gallery2/3.jpg"
   },
   "assets/images/gallery/5.jpg": {
     "file": "_nuxt/5.1effcb76.jpg",
     "src": "assets/images/gallery/5.jpg"
   },
+  "assets/images/gallery/1.jpg": {
+    "file": "_nuxt/1.5cc6486b.jpg",
+    "src": "assets/images/gallery/1.jpg"
+  },
   "node_modules/nuxt/dist/app/entry.mjs": {
-    "file": "_nuxt/entry.364d3ba5.mjs",
+    "file": "_nuxt/entry.739537b3.mjs",
     "src": "node_modules/nuxt/dist/app/entry.mjs",
     "isEntry": true,
     "css": [
-      "_nuxt/entry.c08b90a6.css"
+      "_nuxt/entry.ef7aea52.css"
     ],
     "assets": [
       "_nuxt/aruka-logo.da576dc2.svg",
-      "_nuxt/2.883fdf33.jpg",
-      "_nuxt/1.5cc6486b.jpg",
-      "_nuxt/3.f7f1a8a8.jpg",
+      "_nuxt/2.4abaea49.jpg",
+      "_nuxt/1.2eb77303.jpg",
+      "_nuxt/3.bb6dbe75.jpg",
       "_nuxt/4.02b868cc.jpg",
       "_nuxt/5.1effcb76.jpg",
-      "_nuxt/hero-image-figma.ba907452.jpg"
+      "_nuxt/hero-image-figma.ba907452.jpg",
+      "_nuxt/1.5cc6486b.jpg"
     ]
   },
   "node_modules/nuxt/dist/app/entry.css": {
-    "file": "_nuxt/entry.c08b90a6.css",
+    "file": "_nuxt/entry.ef7aea52.css",
     "src": "node_modules/nuxt/dist/app/entry.css"
   }
 }
