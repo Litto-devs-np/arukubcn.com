@@ -1,0 +1,1 @@
+import{n as r}from"./awTPZBXf.js";import{X as a}from"./CH_4CE7-.js";const _={__name:"index",async setup(o){let t,e;return[t,e]=a(()=>r("/",{redirectCode:301})),await t,e(),()=>{}}};export{_ as default};

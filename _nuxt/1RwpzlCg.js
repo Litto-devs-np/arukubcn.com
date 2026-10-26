@@ -1,0 +1,1 @@
+import{n as o}from"./awTPZBXf.js";import{X as r}from"./CH_4CE7-.js";const i={__name:"index",async setup(n){let t,e;return[t,e]=r(()=>o("/terms-condition",{redirectCode:301})),await t,e(),()=>{}}};export{i as default};
